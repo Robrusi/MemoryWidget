@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  MemoryWidget
-//
-//  Created by Robert Rusinek on 01/03/2026.
-//
-
 import Cocoa
 
 class AppDelegate: NSObject, NSApplicationDelegate {
